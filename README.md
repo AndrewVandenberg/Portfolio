@@ -7,3 +7,4 @@ This is my first project that I am putting on GitHub.
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/graph.png)
 
 
+unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
