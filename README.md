@@ -18,4 +18,4 @@ This is my first NN project I am uploaded to GitHub.
 * I created a Neaural Network that predicted the price of gemstones based on two features.
 * The accuracy of this model had a MAE of $4, with the mean of the data being around $500.
  
-
+![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
