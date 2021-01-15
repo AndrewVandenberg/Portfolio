@@ -3,7 +3,7 @@ This is my first project that I am putting on GitHub. More information on the pr
 * I utilized Jupyter Notebook, along with the libraries pandas, numpy, matplotlib, skikit learn, and seaborn for this project.
 * I used the Kaggle data set Titanic to create a ML model.
 * I used a logistic regression model to predict the survival of each passenger.
-* The precision of this model came out to be around 72%.
+* The precision of this model came out to be around 78%.
 
 
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/graph.png)
