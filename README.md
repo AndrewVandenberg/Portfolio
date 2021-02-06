@@ -19,3 +19,8 @@ This is my first NN project I am uploaded to GitHub. More information on the pro
 * The accuracy of this model had a MAE of $4, with the mean of the data being around $500.
  
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
+
+# [Iris Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/Iris%20Project.ipynb)
+This was a classification problem, which required me to classify different flowers into either one of three different species.
+* I used K-Nearest Neighbor to solve this problem
+
