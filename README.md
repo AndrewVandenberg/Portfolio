@@ -1,18 +1,21 @@
 # Regression Projects
 
+
+
+
+# Classification Projects
+
 ## [Titanic Project](https://github.com/AndrewVandenberg/Titanic)
-This is my first project that I am putting on GitHub. More information on the project link.
+I utilized logistic regression as a way to determine whether a passenger survived or not based on their various features.
+
 * I utilized Jupyter Notebook, along with the libraries pandas, numpy, matplotlib, skikit learn, and seaborn for this project.
 * I used the Kaggle data set Titanic to create a ML model.
-* I used a logistic regression model to predict the survival of each passenger.
+* I used the logistic regression model to predict the survival of each passenger.
 * The precision of this model came out to be around 78%.
 
 
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/graph.png)
 
-
-unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
-# Classification Projects
 
 ## [Iris Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/Iris%20Project.ipynb)
 This was a classification problem, which required me to classify different flowers into either one of three different species.
@@ -31,4 +34,4 @@ This is my first NN project I am uploaded to GitHub. More information on the pro
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
 
-
+unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
