@@ -1,4 +1,6 @@
-# [Titanic Project](https://github.com/AndrewVandenberg/Titanic)
+# Regression Projects
+
+## [Titanic Project](https://github.com/AndrewVandenberg/Titanic)
 This is my first project that I am putting on GitHub. More information on the project link.
 * I utilized Jupyter Notebook, along with the libraries pandas, numpy, matplotlib, skikit learn, and seaborn for this project.
 * I used the Kaggle data set Titanic to create a ML model.
@@ -10,8 +12,16 @@ This is my first project that I am putting on GitHub. More information on the pr
 
 
 unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
+# Classification Projects
 
-# [Gem Stone Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/TensorFlow_Gem_Project.ipynb)
+## [Iris Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/Iris%20Project.ipynb)
+This was a classification problem, which required me to classify different flowers into either one of three different species.
+* I used K-Nearest Neighbor to solve this problem
+
+
+# Neural Network Projects
+
+## [Gem Stone Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/TensorFlow_Gem_Project.ipynb)
 This is my first NN project I am uploaded to GitHub. More information on the project link.
 * I utilized Google Collab, along with the libraries pandas, numpy, matplotlib, skikitlearn, keras, and seaborn for this project.
 * I used data from a Kaggle dataset to create a NN model.
@@ -20,7 +30,5 @@ This is my first NN project I am uploaded to GitHub. More information on the pro
  
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
-# [Iris Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/Iris%20Project.ipynb)
-This was a classification problem, which required me to classify different flowers into either one of three different species.
-* I used K-Nearest Neighbor to solve this problem
+
 
