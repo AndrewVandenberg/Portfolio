@@ -1,6 +1,6 @@
 # Regression Projects
 
-## [Boston Housing Pricing]()
+## [Boston Housing Pricing](https://github.com/AndrewVandenberg/Portfolio/blob/main/Boston%20Housing%20.ipynb)
 I utilized linear regression to help predict the prices of houses in the boston area.
 * I performed an EDA to discover what features were the most influential in predicting house prices.
 * My MAE was 3.84, MSE 28.55, and RMSE 5.34
