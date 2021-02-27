@@ -23,6 +23,11 @@ I utilized logistic regression as a way to determine whether a passenger survive
 This was a classification problem, which required me to classify different flowers into either one of three different species.
 * I used K-Nearest Neighbor to solve this problem
 
+## [Breast Cancer](https://github.com/AndrewVandenberg/Portfolio/blob/main/Breast%20Cancer.ipynb)
+For this classification problem, I used Support Vector Machines to classify whether someone has breast cancer based on different features/variables.
+* With this dataset, I was able to accurately predict whether someone has breast cancer 91% of the time!
+
+
 
 # Neural Network Projects
 
