@@ -40,5 +40,11 @@ This is my first NN project I am uploaded to GitHub. More information on the pro
  
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
+## [Car Sales Prediction]()
+I utilized ANN's to predict the possible price range any given customer would be willing to consider based on features known about them.
+* I used Jupyter Notebook for this project
+* I utilized Tensorflow and Keras 
+
+
 
 unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
