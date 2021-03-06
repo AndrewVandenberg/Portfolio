@@ -38,13 +38,13 @@ This is my first NN project I am uploaded to GitHub. More information on the pro
 * I created a Neaural Network that predicted the price of gemstones based on two features.
 * The accuracy of this model had a MAE of $4, with the mean of the data being around $500.
  
-![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
+![Epochs vs Loss](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
 ## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)
 I utilized ANN's to predict the possible price range any given customer would be willing to consider based on features known about them.
 * I used Jupyter Notebook for this project
 * I utilized Tensorflow and Keras 
 
-![]()
+![Epochs vs Loss](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/CarSales.png)
 
 unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
