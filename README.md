@@ -52,4 +52,7 @@ This was my introduction to FaceBook's Prophet library. With this data set, I wa
 * I utilized Seaborn and Matplotlib to better understand the data visually.
 * I was able to use the data to study the general trends within the data.
 
+![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/crime.png)
+
+
 unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
