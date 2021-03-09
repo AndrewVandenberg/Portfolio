@@ -9,6 +9,12 @@ This is my first NN project I am uploaded to GitHub.
  
 ![Epochs vs Loss](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
+## [Traffic Sign Classification]()
+I used a LeNet-CNN to help better classify traffic signals.
+* N
+* N
+
+
 ## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)
 I utilized ANN's to predict the possible price range any given customer would be willing to consider based on features known about them.
 * I used Jupyter Notebook for this project
