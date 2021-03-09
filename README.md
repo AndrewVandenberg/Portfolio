@@ -43,4 +43,13 @@ This was a classification problem, which required me to classify different flowe
 For this classification problem, I used Support Vector Machines to classify whether someone has breast cancer based on different features/variables.
 * With this dataset, I was able to accurately predict whether someone has breast cancer 91% of the time!
 
+# Forecasting Projects
+
+## [Crime Rate in Chicago]()
+This was my first introduction to FaceBook's Prophet library. With this data set, I was able to produce reasonable predictions about future crime within the city of Chicago based on past, available, data.
+
+* G
+* T
+* C
+
 unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
