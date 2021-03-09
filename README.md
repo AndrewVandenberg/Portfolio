@@ -45,7 +45,7 @@ For this classification problem, I used Support Vector Machines to classify whet
 
 # Forecasting Projects
 
-## [Crime Rate in Chicago]()
+## [Crime Rate in Chicago](https://github.com/AndrewVandenberg/Portfolio/blob/main/Crime%20Rate%20in%20Chicago.ipynb)
 This was my first introduction to FaceBook's Prophet library. With this data set, I was able to produce reasonable predictions about future crime within the city of Chicago based on past, available, data.
 
 * G
