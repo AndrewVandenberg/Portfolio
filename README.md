@@ -46,10 +46,10 @@ For this classification problem, I used Support Vector Machines to classify whet
 # Forecasting Projects
 
 ## [Crime Rate in Chicago](https://github.com/AndrewVandenberg/Portfolio/blob/main/Crime%20Rate%20in%20Chicago.ipynb)
-This was my first introduction to FaceBook's Prophet library. With this data set, I was able to produce reasonable predictions about future crime within the city of Chicago based on past, available, data.
+This was my introduction to FaceBook's Prophet library. With this data set, I was able to produce predictions about future crime within the city of Chicago based on past, available, data.
 
-* G
-* T
-* C
+* FB Prophet is used to forecast time-series data based on an additive model.
+* I utilized Seaborn and Matplotlib to better understand the data visually.
+* I was able to use the data to study the general trends within the data.
 
 unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
