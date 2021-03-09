@@ -1,7 +1,7 @@
 # Neural Network Projects
 
 ## [Gem Stone Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/TensorFlow_Gem_Project.ipynb)
-This is my first NN project I am uploaded to GitHub. More information on the project link.
+This is my first NN project I am uploaded to GitHub. 
 * I utilized Google Collab, along with the libraries pandas, numpy, matplotlib, skikitlearn, keras, and seaborn for this project.
 * I used data from a Kaggle dataset to create a NN model.
 * I created a Neaural Network that predicted the price of gemstones based on two features.
