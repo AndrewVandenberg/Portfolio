@@ -11,7 +11,7 @@ This is my first NN project I am uploaded to GitHub.
 
 ## [Traffic Sign Classification]()
 I used a LeNet-CNN to help better classify traffic signals.
-* N
+* I ustilized the Pickle library to...
 * N
 
 
