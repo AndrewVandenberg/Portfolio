@@ -9,10 +9,11 @@ This is my first NN project I am uploaded to GitHub.
  
 ![Epochs vs Loss](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
-## [Traffic Sign Classification]()
+## [Traffic Sign Classification](https://github.com/AndrewVandenberg/Portfolio/blob/main/LeNet%20Traffic%20Sign%20Classification.ipynb)
 I used a LeNet-CNN to help better classify traffic signals.
-* I ustilized the Pickle library to...
-* N
+* This project made use of matplotlib, seaborn, keras, sklearn, pandas, and numpy
+* I utilized the Pickle library to...
+* This project classified images to help self-driving cars better navigate on the roads autonomously.
 
 
 ## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)
