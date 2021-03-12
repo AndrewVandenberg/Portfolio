@@ -51,6 +51,14 @@ This was a classification problem, which required me to classify different flowe
 For this classification problem, I used Support Vector Machines to classify whether someone has breast cancer based on different features/variables.
 * With this dataset, I was able to accurately predict whether someone has breast cancer 91% of the time!
 
+## [Email Spam Filter]()
+This project used a Naive Bayes classifier to differentiate between spam and "ham" emails.
+* l
+* l
+* j
+
+![Accuracy of Model]()
+
 # Forecasting Projects
 
 ## [Crime Rate in Chicago](https://github.com/AndrewVandenberg/Portfolio/blob/main/Crime%20Rate%20in%20Chicago.ipynb)
