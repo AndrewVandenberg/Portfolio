@@ -55,7 +55,15 @@ For this classification problem, I used Support Vector Machines to classify whet
 This project used a Naive Bayes classifier to differentiate between spam and "ham" emails.
 * With this model, I was able to achieve a 98% accuracy rate.
 
-![Accuracy of Model](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/email.png)
+![Accuracy of Model](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/email.png
+
+## [Movie Recommendation Model]()
+This model predicts potential movie interests to a viewer based on their reviews of previous movies.
+* G
+* H
+
+![]()
+
 
 # Forecasting Projects
 
