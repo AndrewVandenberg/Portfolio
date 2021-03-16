@@ -57,13 +57,11 @@ This project used a Naive Bayes classifier to differentiate between spam and "ha
 
 ![Accuracy of Model](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/email.png
 
-## [Movie Recommendation Model]()
+## [Movie Recommendation Model](https://github.com/AndrewVandenberg/Portfolio/blob/main/Movie%20Recommendations.ipynb)
 This model predicts potential movie interests to a viewer based on their reviews of previous movies.
 * This model did not rely on the sklearn librbary or NN's; 
 * Instead utilizing the pandas library a great deal.
 * There is no ability to check the accuracy of this model.
-
-![]()
 
 
 # Forecasting Projects
