@@ -16,7 +16,7 @@ I used a LeNet-CNN to help better classify traffic signals.
 
 <img src="https://github.com/AndrewVandenberg/Portfolio/blob/main/images/traffic.png" alt="Traffic Sign Predictions" width="500"/>
 
-## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)
+## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)^*
 I utilized ANN's to predict the possible price range any given customer would be willing to consider based on features known about them.
 * I used Jupyter Notebook for this project
 * I utilized Tensorflow and Keras 
