@@ -8,7 +8,7 @@ A NN model that predicts the price of gemstones based on their features.
  
 ![Epochs vs Loss](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/gem.png)
 
-## [Traffic Sign Classification](https://github.com/AndrewVandenberg/Portfolio/blob/main/LeNet%20Traffic%20Sign%20Classification.ipynb)
+## [Traffic Sign Classification](https://github.com/AndrewVandenberg/Portfolio/blob/main/LeNet%20Traffic%20Sign%20Classification.ipynb)*
 I used a LeNet-CNN to help better classify traffic signals.
 * This project made use of matplotlib, seaborn, keras, sklearn, pandas, and numpy
 * I utilized the Pickle library to...
@@ -16,7 +16,7 @@ I used a LeNet-CNN to help better classify traffic signals.
 
 <img src="https://github.com/AndrewVandenberg/Portfolio/blob/main/images/traffic.png" alt="Traffic Sign Predictions" width="500"/>
 
-## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)^*
+## [Car Sales Prediction](https://github.com/AndrewVandenberg/Portfolio/blob/main/Car%20Sales.ipynb)*
 I utilized ANN's to predict the possible price range any given customer would be willing to consider based on features known about them.
 * I used Jupyter Notebook for this project
 * I utilized Tensorflow and Keras 
@@ -50,7 +50,7 @@ This was a classification problem, which required me to classify different flowe
 For this classification problem, I used Support Vector Machines to classify whether someone has breast cancer based on different features/variables.
 * With this dataset, I was able to accurately predict whether someone has breast cancer 91% of the time!
 
-## [Email Spam Filter](https://github.com/AndrewVandenberg/Portfolio/blob/main/Email%20Spam%20Filter.ipynb)
+## [Email Spam Filter](https://github.com/AndrewVandenberg/Portfolio/blob/main/Email%20Spam%20Filter.ipynb)*
 This project used a Naive Bayes classifier to differentiate between spam and "ham" emails.
 * With this model, I was able to achieve a 98% accuracy rate.
 
@@ -65,7 +65,7 @@ This model predicts potential movie interests to a viewer based on their reviews
 
 # Forecasting Projects
 
-## [Crime Rate in Chicago](https://github.com/AndrewVandenberg/Portfolio/blob/main/Crime%20Rate%20in%20Chicago.ipynb)
+## [Crime Rate in Chicago](https://github.com/AndrewVandenberg/Portfolio/blob/main/Crime%20Rate%20in%20Chicago.ipynb)*
 This was my introduction to FaceBook's Prophet library. With this data set, I was able to produce predictions about future crime within the city of Chicago based on past, available, data.
 
 * FB Prophet is used to forecast time-series data based on an additive model.
@@ -74,5 +74,6 @@ This was my introduction to FaceBook's Prophet library. With this data set, I wa
 
 ![](https://github.com/AndrewVandenberg/Portfolio/blob/main/images/crime.png)
 
+Acknowledgements
 
-unsupervised learning projects. nlp, genetics and diseases, social sciences, etc.
+* These projects were taken from the course "Machine Learning Practical Workout: 8 Ral-World Projects," by Ryan Ahmed.
