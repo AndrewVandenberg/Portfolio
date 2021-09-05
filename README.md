@@ -76,4 +76,4 @@ This was my introduction to FaceBook's Prophet library. With this data set, I wa
 
 Acknowledgements
 
-* * These projects were taken from the course "Machine Learning Practical Workout: 8 Ral-World Projects," by Ryan Ahmed.
+* '*' These projects were taken from the course "Machine Learning Practical Workout: 8 Ral-World Projects," by Ryan Ahmed.
