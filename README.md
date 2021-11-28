@@ -1,6 +1,6 @@
 # Mini-Machine Learning Projects
 
-## [Stochastic Relative Strength Indicator Algo Trading]()
+## [Stochastic Relative Strength Indicator Algo Trading](https://github.com/AndrewVandenberg/Portfolio/blob/main/Buy%20or%20Sell%20stock%20via%20Stochastic%20Processes.ipynb)
 This model used StochasticRSI as the basis to time when to buy or sell a stock.
 * This model used the Pandas, Numpy, and Matplotlib libraries.
 * From the data given, a function that calculates the StochRSI was created and plotted onto the graph of the stock; from this new metric, we can get an estimate about whether a stock is either overbought or oversold. As a result, we can set thresholds that can tell us whether we should buy or sell this stock based on the newly calculated StochRSI. 
