@@ -7,7 +7,7 @@ This model used StochasticRSI as the basis to time when to buy or sell a stock.
 * UNDER CONSTRUCTION: A function showing how much money this strategy made in relation to simply holding the stock is an idea worth coming back to.
 * Credit for the code used in this project is from the YouTube channel "Computer Science", with the title of the video being "Use Stochastic RSI And Python To Determine When To Buy And Sell Stocks"
 
-## [Simple Moving Average Algo Trading]()
+## [Simple Moving Average Algo Trading](https://github.com/AndrewVandenberg/Portfolio/blob/main/FB_Algorithmic_Trading_SMA.ipynb)
 This model used Simple Moving Averages (SMA) as the basis to time when to buy or sell a stock.
 * This model used the Pandas, Numpy, and Matplotlib libraries.
 * Two SMA's were created (one short (30 days) and the other long (100 days)), with the assumption that each time these two averages crossed each other, that would be a signal to either buy or sell the asset/stock. 
