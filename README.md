@@ -1,8 +1,25 @@
+# Mini-Machine Learning Projects
+
+## [Stochastic Relative Strength Indicator Algo Trading]()
+This model used StochasticRSI as the basis to time when to buy or sell a stock.
+* This model used the Pandas, Numpy, and Matplotlib libraries.
+* From the data given, a function that calculates the StochRSI was created and plotted onto the graph of the stock; from this new metric, we can get an estimate about whether a stock is either overbought or oversold. As a result, we can set thresholds that can tell us whether we should buy or sell this stock based on the newly calculated StochRSI. 
+* UNDER CONSTRUCTION: A function showing how much money this strategy made in relation to simply holding the stock is an idea worth coming back to.
+* Credit for the code used in this project is from the YouTube channel "Computer Science", with the title of the video being "Use Stochastic RSI And Python To Determine When To Buy And Sell Stocks"
+
+## [Simple Moving Average Algo Trading]()
+This model used Simple Moving Averages (SMA) as the basis to time when to buy or sell a stock.
+* This model used the Pandas, Numpy, and Matplotlib libraries.
+* Two SMA's were created (one short (30 days) and the other long (100 days)), with the assumption that each time these two averages crossed each other, that would be a signal to either buy or sell the asset/stock. 
+* Both a buy and sell varaible were created in this project, and were plotted onto the graph as well.
+* UNDER CONSTRUCTION: A function showing how much money this strategy made in relation to simply holding the stock is an idea worth coming back to.
+* Credit for the code used in this project is from the YouTube channel "Computer Science", with the title of the video being "Algorithmic Trading Strategy Using Python"
+
 # Neural Network Projects
 
 ## [Gem Stone Project](https://github.com/AndrewVandenberg/Portfolio/blob/main/TensorFlow_Gem_Project.ipynb)
 A NN model that predicts the price of gemstones based on their features. 
-* I utilized Google Collab, along with the libraries pandas, numpy, matplotlib, skikitlearn, keras, and seaborn for this project.
+* This model utilized Google Collab, along with the libraries pandas, numpy, matplotlib, skikitlearn, keras, and seaborn for this project.
 * Data is from a Kaggle dataset.
 * The accuracy of this model had a MAE of $4, with the mean of the data being around $500.
  
